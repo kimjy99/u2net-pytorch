@@ -2,7 +2,7 @@
 A Pytorch implementation of [U2-Net: Going Deeper with Nested U−Structure for Salient Object Detection](https://arxiv.org/abs/2005.09007) trained with CelebAMask
 
 ## Dataset: CelebAMask
-I made a dataset and upload in Kaggle after pre-processing (downsize & use only background for mask).  
+I made a dataset and upload in Kaggle after pre-processing.  
 1. Use only background for mask images
 2. Downsize to [128x128](https://www.kaggle.com/datasets/kimjiyeop/celeba-128-onlybg) & [256x256](https://www.kaggle.com/datasets/kimjiyeop/celeba-256-onlybg)  
 
