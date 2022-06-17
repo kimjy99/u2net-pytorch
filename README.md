@@ -1,6 +1,10 @@
 # U2-Net
 A Pytorch implementation of [U2-Net: Going Deeper with Nested U−Structure for Salient Object Detection](https://arxiv.org/abs/2005.09007) trained with CelebAMask
 
+<p align="center">
+  <img src="./images/elon-combined.gif" width="400"/>
+</p>
+
 ## Dataset: CelebAMask
 I made a dataset and upload in Kaggle after pre-processing.  
 1. Use only background for mask images
@@ -42,4 +46,10 @@ Best validation loss is 0.0159
 </p>
 
 ### Test loss
-0.02649
+Mean absolute error for test images: 0.02649
+
+## Convert GIFs
+<p align="center">
+  <img src="./images/iu-combined.gif" width="400"/>
+  <img src="./images/elon-combined.gif" width="400"/>
+</p>
