@@ -20,9 +20,7 @@ optimizer: Adam
  
 epoch: 25
 loss weight: all 1
-batch size
- - train: 12
- - validation: 50
+batch size: 12
 
 train loss: binary cross entrophy
 validation & test loss: mean absolute error (L1 loss)
@@ -35,12 +33,6 @@ validation & test loss: mean absolute error (L1 loss)
 
 ## Loss
 ### Train loss
-<p align="center">
-  <img src="./images/train_loss.png" style="width:500px;"/>
-</p>
-
-### Validation loss
-Best validation loss is 0.0159 
 <p align="center">
   <img src="./images/train_loss.png" style="width:500px;"/>
 </p>
