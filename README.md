@@ -23,7 +23,7 @@ validation & test loss: mean absolute error (L1 loss)
 
 ### Output of test dataset images
 <p align="center">
-  <img src="./images/result_mh.png" style="width:500px;"/>
+  <img src="./images/result_mh.png" style="width:700px;"/>
 </p>
 
 ### Convert GIFs
